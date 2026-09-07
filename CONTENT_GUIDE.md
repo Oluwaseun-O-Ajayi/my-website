@@ -163,6 +163,15 @@ This page (`pages/certificates.html`) is script-driven, unlike Elsewhere, you ne
 
 ---
 
+## Remove a Certificate (or a standalone Document)
+1. Delete the PDF from its folder under `files/professional-certificates/<category>/` (or `files/<category>/` for a standalone document).
+2. Remove its matching entry: the `{ "name": ..., "file": ... }` line in `content/certificates.json`, or the `<li><a>...</a></li>` line in `pages/elsewhere.html`.
+3. Watch the commas: if you deleted the last item in a list, remove the comma after the item *before* it instead. If you deleted a middle item, just remove that one entry's comma along with it.
+4. Deleting only the JSON/HTML entry (without deleting the file) is enough to hide it from the live site, the file just sits unused in the repo. Deleting only the file without removing its entry leaves a dead link on the page, always do both.
+5. Commit and push, wait a minute, refresh the live page to confirm it's gone.
+
+---
+
 ## Update your homepage bio, contact, or social links
 File: `content/site.json`
 - `bio_html`: your homepage bio paragraph. Can include basic HTML tags like `<br>` for line breaks. Replace or expand this paragraph as needed in <code>content/site.json</code>.
