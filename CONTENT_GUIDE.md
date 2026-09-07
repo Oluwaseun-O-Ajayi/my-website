@@ -121,6 +121,48 @@ Find the right `<section class="cv-section">` for the category (or add a new sec
 
 ---
 
+## Add a standalone Document (CV, publications list, etc.) to the Elsewhere page
+Files: the document itself goes in `files/<category>/`, the link goes in `pages/elsewhere.html`
+
+1. Upload the file (PDF preferred over Word so it opens in-browser instead of downloading) into `files/<category>/`, e.g. `files/cv/publications-list.pdf`. Create the subfolder if it doesn't exist yet, any name works, spaces are fine, the link will still work.
+2. Add a line inside the right `<ul class="cv-list">` in `pages/elsewhere.html`:
+```html
+<li><a href="https://oluwaseun-o-ajayi.github.io/my-website/files/cv/publications-list.pdf" target="_blank" rel="noopener">Publications List</a></li>
+```
+3. To update the document later: re-export/re-save it with the exact same filename, upload to the same path to overwrite it. The link on the site never needs to change.
+
+---
+
+## Add a Certificate
+Files: the PDF goes in `files/professional-certificates/<category-folder>/`, the entry goes in `content/certificates.json`
+
+This page (`pages/certificates.html`) is script-driven, unlike Elsewhere, you never touch HTML here.
+
+**Adding to an existing category** (Open University, Peer Review, Professional Certificates and Development, LinkedIn Learning, Current Trends Symposium, LabRoots):
+1. Upload the PDF into that category's existing subfolder under `files/professional-certificates/`, any filename is fine, no renaming needed.
+2. In `content/certificates.json`, find that category's `"items"` array and add:
+```json
+{ "name": "Readable Certificate Name", "file": "exact-uploaded-filename.pdf" }
+```
+(don't forget a comma after the previous entry's closing `}`)
+
+**Adding a brand-new category:**
+1. Create a new subfolder under `files/professional-certificates/`, e.g. `files/professional-certificates/new-category-slug/`.
+2. Add a new block to the top-level array in `certificates.json`:
+```json
+{
+  "category": "Display Name For This Category",
+  "folder": "new-category-slug",
+  "items": [
+    { "name": "First Certificate Name", "file": "filename.pdf" }
+  ]
+}
+```
+- `"folder"` must exactly match the subfolder name you created in step 1, this is what builds the link, it's not just cosmetic.
+- The page auto-generates a new section for it, no edits to `certificates.html` or `certificates.js` are ever needed for new certificates or categories.
+
+---
+
 ## Update your homepage bio, contact, or social links
 File: `content/site.json`
 - `bio_html`: your homepage bio paragraph. Can include basic HTML tags like `<br>` for line breaks. Replace or expand this paragraph as needed in <code>content/site.json</code>.
