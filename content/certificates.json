@@ -339,6 +339,10 @@
     "category": "Professional Certificates and Development",
     "folder": "professional-certificates-and-development",
     "items": [
+            {
+        "name": "Cyclic Peptide Modeling and Informatics",
+        "file": "Cyclic Peptide Modeling and Informatics_Oluwaseun Ajayi.pdf"
+      },
       {
         "name": "SARS COV2 Testing",
         "file": "1684657287146.jpg"
@@ -456,7 +460,7 @@
         "file": "Badge Mentor Judge NDiSTEM 2025.pdf"
       },
       {
-        "name": "Badge Schrodinger - COMPLETED Schr཭inger s Introduction to Molecular Modeling in Drug Discovery",
+        "name": "Badge Schrodinger - COMPLETED Schrödinger's Introduction to Molecular Modeling in Drug Discovery",
         "file": "Badge_Schrodinger - COMPLETED Schr#U00f6dinger_s Introduction to Molecular Modeling in Drug Discovery.png"
       },
       {
@@ -468,7 +472,7 @@
         "file": "Basics_of_Grant_Proposal_Writing.pdf"
       },
       {
-        "name": "Beyond the MDCAT Your Academic Success and Wellbeing",
+        "name": "Beyond the MDCAT: Your Academic Success and Wellbeing",
         "file": "Beyond the MDCAT_ Your Academic Success and Wellbeing_Oluwaseun Ajayi .pdf"
       },
       {
@@ -528,7 +532,7 @@
         "file": "Certificate of Achievement JnJ Research Symposium 2026.pdf"
       },
       {
-        "name": "of Appreciation – Youth Mental Health Collaborative Africa2025",
+        "name": "Certificate of Appreciation – Youth Mental Health Collaborative Africa2025",
         "file": "Certificate of Appreciation  #U2013 Youth Mental Health Collaborative Africa2025_OA.pdf"
       },
       {
@@ -540,11 +544,11 @@
         "file": "Certificate of Completion_BVGH#U2019s 2026 Fundamentals of Biomedical Research Part 2 digital training program2_1845.pdf"
       },
       {
-        "name": "of Presentation 17th Multidimensional Chromatography Workshop",
+        "name": "Certificate of Presentation 17th Multidimensional Chromatography Workshop",
         "file": "Certificate of Presentation_17th Multidimensional Chromatography Workshop.pdf"
       },
       {
-        "name": "for-setac-14th-young-environmental-scientists-meeting",
+        "name": "Certificate-for-setac-14th-young-environmental-scientists-meeting",
         "file": "Certificate-for-setac-14th-young-environmental-scientists-meeting.pdf"
       },
       {
@@ -552,7 +556,7 @@
         "file": "Certificate_Accelerating Recombinase Reprogramming with Machine Learning_OA.pdf"
       },
       {
-        "name": "Democratizing Genomics Making Bioinformatics Accessible WorldWide",
+        "name": "Democratizing Genomics Making Bioinformatics Accessible Worldwide",
         "file": "Certificate_Democratizing Genomics_Making Bioinformatics Accessible WorldWide_OA.pdf"
       },
       {
@@ -560,7 +564,7 @@
         "file": "Certificate_MPS and in silico modeling.pdf"
       },
       {
-        "name": "National Institute of ProfessionalEngineers and Scientists",
+        "name": "National Institute of Professional Engineers and Scientists",
         "file": "Certificate_National Institute of ProfessionalEngineers and Scientists.pdf"
       },
       {
@@ -624,7 +628,7 @@
         "file": "Developing high trust work relationships.pdf"
       },
       {
-        "name": "DigitalMembershipCertificate-OluwaseunAjayi",
+        "name": "Sigma Xi Elected Full Membership Certificate",
         "file": "DigitalMembershipCertificate-OluwaseunAjayi.pdf"
       },
       {
@@ -684,7 +688,7 @@
         "file": "GLYCOPROTEIN COURSE_Oluwaseun Ajayi.pdf"
       },
       {
-        "name": "GenAI training certificate OLUWASEUN OLANIKE AJAYI",
+        "name": "GenAI training certificate",
         "file": "GenAI training certificate_OLUWASEUN OLANIKE AJAYI.pdf"
       },
       {
@@ -700,7 +704,7 @@
         "file": "Glycomics, Glycoproteomics and Bioinformatics Tools for Data Interpretation of Mass Spectrometry of Glycoproteins_Oluwaseun Ajayi.pdf"
       },
       {
-        "name": "Grant-o-thon Certificate-Oluwaseun O.",
+        "name": "Grant-o-thon Certificate",
         "file": "Grant-o-thon Certificate-Oluwaseun O. Ajayi.pdf"
       },
       {
@@ -764,7 +768,7 @@
         "file": "Inspire award J&J.pdf"
       },
       {
-        "name": "Introduction to Drug Discovery Cert",
+        "name": "Introduction to Drug Discovery",
         "file": "Introduction to Drug Discovery_Cert_Oluwaseun Ajayi.pdf"
       },
       {
@@ -812,7 +816,7 @@
         "file": "NWS_spotter_certificate of achievement_Oluwaseun_Ajayi.pdf"
       },
       {
-        "name": "OA Leadership UGA",
+        "name": "Leadership UGA: Emerging Leaders",
         "file": "OA_Leadership UGA.pdf"
       },
       {
@@ -820,15 +824,11 @@
         "file": "Obesity-balanced diets and treatment.pdf"
       },
       {
-        "name": "Oluwaseun Ajayi Reviewer Letter",
-        "file": "Oluwaseun Ajayi Reviewer Letter.pdf"
-      },
-      {
-        "name": "Oluwaseun Ajayi Ask Me Anything - Preoteomics - 17th June 2024",
+        "name": "Ask Me Anything - Proteomics - 17th June 2024",
         "file": "Oluwaseun Ajayi_Ask_Me_Anything_-_Preoteomics__-_17th_June_2024.pdf"
       },
       {
-        "name": "Open Access, Open Impact How Institutions and Researchers Can Lead the Future of Publishing",
+        "name": "Open Access, Open Impact: How Institutions and Researchers Can Lead the Future of Publishing",
         "file": "Open Access, Open Impact_ How Institutions and Researchers Can Lead the Future of Publishing.pdf"
       },
       {
@@ -836,7 +836,7 @@
         "file": "Pain and Aspirin.pdf"
       },
       {
-        "name": "Perfect Productivity. how to achieve any goal",
+        "name": "Perfect Productivity. How to achieve any goal",
         "file": "Perfect Productivity. how to achieve any goal.pdf"
       },
       {
@@ -852,7 +852,7 @@
         "file": "Professional Networking for Career Starters_OA.pdf"
       },
       {
-        "name": "Professions of the future. work in today s job market",
+        "name": "Professions of the Future: Work in today's job market",
         "file": "Professions of the future. work in today_s job market.pdf"
       },
       {
@@ -868,7 +868,7 @@
         "file": "Public health approaches to infectious disease.pdf"
       },
       {
-        "name": "PublicHealthConfidential",
+        "name": "Public Health Confidential: Federal Edition",
         "file": "PublicHealthConfidential_Oluwaseun Ajayi.pdf"
       },
       {
@@ -876,11 +876,11 @@
         "file": "RW_2025_Getting Started with Writing and Publishing Your Research (2025) - Pass.pdf"
       },
       {
-        "name": "Reading and note taking – preparation for study",
+        "name": "Reading and note-taking – preparation for study",
         "file": "Reading and note taking #U2013 preparation for study.pdf"
       },
       {
-        "name": "Receipt-ProofOfMembershipOluwaseunAjayi",
+        "name": "Sigma Xi: Proof of Membership",
         "file": "Receipt-ProofOfMembershipOluwaseunAjayi.pdf"
       },
       {
@@ -908,7 +908,7 @@
         "file": "RightToKnow2_OLUWASEUN_AJAYI.pdf"
       },
       {
-        "name": "SAB 2025-2026 OAjayi",
+        "name": "Certificate of Recognition: 1DF Student Advisory Board Member 2025-2026",
         "file": "SAB_2025-2026_OAjayi.pdf"
       },
       {
@@ -916,7 +916,7 @@
         "file": "SLAS 2026 Certificate-of-Completion_Assay Guidance Workshop for High Throughput Screening and Lead Discovery.pdf"
       },
       {
-        "name": "Short Course on Research Skills Development, (Data Management and Visualization using R and Power BI)",
+        "name": "Short Course on Research Skills Development (Data Management and Visualization using R and Power BI)",
         "file": "Short Course on Research Skills Development, (Data Management and Visualization using R and Power BI).pdf"
       },
       {
@@ -940,7 +940,7 @@
         "file": "Staff_Code_of_Conduct_Georgia_Center_Minors_on_Campus_Training_Ajayi.pdf"
       },
       {
-        "name": "StateFoodSafety-Food-Handlers-Essentials-Cert",
+        "name": "State Food Safety-Food-Handlers-Essentials-Certificate",
         "file": "StateFoodSafety-Food-Handlers-Essentials-Cert.pdf"
       },
       {
@@ -992,7 +992,7 @@
         "file": "UGA_Hazardous Waste_Oluwaseun Ajayi.pdf"
       },
       {
-        "name": "UGA s Non Discrimination and Anti-Harassment and USG s Sexual Misconduct Policies Georgia Center Minors on Campus Training",
+        "name": "UGA's Non-Discrimination and Anti-Harassment and USG's Sexual Misconduct Policies Georgia Center Minors on Campus Training",
         "file": "UGA_s_Non_Discrimination_and_Anti-Harassment_and_USG_s_Sexual_Misconduct_Policies_Georgia_Center_Minors_on_Campus_Training_Ajayi.pdf"
       },
       {
@@ -1000,7 +1000,7 @@
         "file": "USG Cybersecurity Credit_Oluwaseun Ajayi.pdf"
       },
       {
-        "name": "USG Ethics Refresher Training (2023) certificate",
+        "name": "USG Ethics Refresher Training (2023)",
         "file": "USG Ethics Refresher Training (2023) certificate.pdf"
       },
       {
@@ -1024,11 +1024,11 @@
         "file": "Understanding_previous_research_.png"
       },
       {
-        "name": "Unlocking High-Value Targets The Power of Chemoproteomics",
+        "name": "Unlocking High-Value Targets: The Power of Chemoproteomics",
         "file": "Unlocking High-Value Targets The Power of Chemoproteomics.pdf"
       },
       {
-        "name": "VisualizingSciencewithPyMOL3-Oluwaseun",
+        "name": "Visualizing Science with PyMOL3",
         "file": "VisualizingSciencewithPyMOL3-Oluwaseun Ajayi.pdf"
       },
       {
@@ -1052,15 +1052,15 @@
         "file": "certificate-AI Fluency for nonprofits.pdf"
       },
       {
-        "name": "Creating-an-Environment-of-Success-in-the-Lab-Oluwaseun-Ajayi",
+        "name": "Creating-an-Environment-of-Success-in-the-Lab",
         "file": "certificate-Creating-an-Environment-of-Success-in-the-Lab-Oluwaseun-Ajayi.pdf"
       },
       {
-        "name": "In-Vitro-Antibody-Discovery-and-the-Potential-Value-of-AI -The-AIntibody-Challenge-Oluwaseun-Ajayi",
+        "name": "In-Vitro-Antibody-Discovery-and-the-Potential-Value-of-AI -The-AIntibody-Challenge",
         "file": "certificate-In-Vitro-Antibody-Discovery-and-the-Potential-Value-of-AI_-The-AIntibody-Challenge-Oluwaseun-Ajayi.pdf"
       },
       {
-        "name": "Using-proteomics-to-predict-disease-outcomes-Oluwaseun-Ajayi",
+        "name": "Using-proteomics-to-predict-disease-outcomes",
         "file": "certificate-Using-proteomics-to-predict-disease-outcomes-Oluwaseun-Ajayi.pdf"
       },
       {
@@ -1068,7 +1068,7 @@
         "file": "certificate_2026 Social Engineering Red Flags.pdf"
       },
       {
-        "name": "AI and Sensitive Info Don t Mix",
+        "name": "AI and Sensitive Info Don't Mix",
         "file": "certificate_AI and Sensitive Info Don_t Mix.pdf"
       },
       {
@@ -1088,11 +1088,11 @@
         "file": "introduction_to_cip.pdf"
       },
       {
-        "name": "marburg-introduction ConfirmationOfParticipation",
+        "name": "marburg-introduction Confirmation Of Participation",
         "file": "marburg-introduction_ConfirmationOfParticipation.pdf"
       },
       {
-        "name": "what s strategic human resource management",
+        "name": "what's strategic human resource management",
         "file": "what_s strategic human resource management.pdf"
       }
     ]
@@ -1102,16 +1102,20 @@
     "folder": "reviewer-certificates",
     "items": [
       {
-        "name": "Oluwaseun Ajayi Reviewer Letter(1)",
+        "name": "Journal Reviewer Letter",
         "file": "Oluwaseun Ajayi Reviewer Letter(1).pdf"
       },
       {
-        "name": "Oluwaseun Ajayi Reviewer Letter",
+        "name": "Journal Reviewer Letter(1)",
         "file": "Oluwaseun Ajayi Reviewer Letter.pdf"
       },
       {
-        "name": "Oluwaseun Ajayi Reviewer Letter1",
+        "name": "Journal Reviewer Letter(2)",
         "file": "Oluwaseun Ajayi Reviewer Letter1.pdf"
+      },
+      {
+        "name": "Journal Reviewer Letter(3)",
+        "file": "Oluwaseun Ajayi Reviewer Letter.pdf"
       },
       {
         "name": "Reviewer Certificate - Oluwaseun Ajayi(1)",
