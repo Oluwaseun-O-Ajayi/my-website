@@ -1,9 +1,27 @@
 [
 {
     "date": "2026-10",
-    "text": "Featured by C&EN (Chemical & Engineering News, American Chemical Society) for being named the 2026 Women in Chemicals Woman of the Year. Read the <a href='https://cen.acs.org/acs-news/uga-chemistry-phd-candidate-named-women-year/104/web/2026/10' target='_blank'>article</a> and see the C&EN posts on <a href='FACEBOOK_POST_URL' target='_blank'>Facebook</a> and <a href='LINKEDIN_POST_URL' target='_blank'>LinkedIn</a>.",
+    "text": "Featured by C&EN (Chemical & Engineering News, American Chemical Society) for being named the 2026 Women in Chemicals Woman of the Year.",
     "image": "",
-    "gif": ""
+    "gif": "",
+    "url": "https://cen.acs.org/acs-news/uga-chemistry-phd-candidate-named-women-year/104/web/2026/10",
+    "url_label": "Read the article on C&EN"
+  },
+  {
+    "date": "2026-10",
+    "text": "C&EN feature on the 2026 Women in Chemicals Woman of the Year recognition shared on the C&EN Facebook page.",
+    "image": "",
+    "gif": "",
+    "url": "FACEBOOK_POST_URL",
+    "url_label": "View on Facebook"
+  },
+  {
+    "date": "2026-10",
+    "text": "C&EN feature on the 2026 Women in Chemicals Woman of the Year recognition shared on the C&EN LinkedIn page.",
+    "image": "",
+    "gif": "",
+    "url": "LINKEDIN_POST_URL",
+    "url_label": "View on LinkedIn"
   },
   {
     "date": "2026-09",
@@ -17,7 +35,7 @@
     "image": "",
     "gif": ""
   },
-{
+  {
     "date": "2026-09",
     "text": "Named the winner of the 2026 Women in Chemicals Woman of the Year Award.",
     "image": "",
