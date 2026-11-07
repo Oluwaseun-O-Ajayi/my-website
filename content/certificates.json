@@ -4,6 +4,10 @@
     "folder": "professional-certificates-and-development",
     "items": [
       {
+        "name": "Introduction to Generative AI",
+        "file": "Introduction to Generative AI.pdf"
+      },
+      {
         "name": "Automated Mass Spectrometry Enters the Clinical Laboratory",
         "file": "certificate-Automated-Mass-Spectrometry-Enters-the-Clinical-Laboratory-Oluwaseun-Ajayi.pdf"
       },
