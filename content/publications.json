@@ -1,12 +1,30 @@
 [
   {
+    "id": "current-protocols-glycan-storage-stability-2026",
+    "title": "Protocols for Assessing Storage Stability and Solubility of Released N-Linked Glycans Prior to Mass Spectrometry Analysis",
+    "content": "Oluwaseun O. Ajayi, Tunde A. Aduloju",
+    "link": "https://doi.org/10.1002/cpz1.70509",
+    "publisher": "Current Protocols, 2026, 6, e70509",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
+    "buttons": [],
+    "created_at": 1793509200,
+    "updated_at": 1793509200
+  },
+  {
     "id": "aprl-cofactor-incorporation-redox-chemical-cofactor-form",
     "title": "Investigating Cofactor Incorporation in AprL Aminotransferase: Redox, Chemical, and Cofactor Form Dependencies",
     "content": "Oluwaseun O. Ajayi, Robert S. Phillips",
     "link": "",
     "publisher": "Free Radical Biology and Medicine, November 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "journal"],
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1761955200,
     "updated_at": 1761955200
@@ -18,7 +36,9 @@
     "link": "",
     "publisher": "Journal of Progress in Engineering and Physical Science, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -30,7 +50,9 @@
     "link": "",
     "publisher": "Manuscript, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["manuscript"],
+    "tags": [
+      "manuscript"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -42,7 +64,10 @@
     "link": "",
     "publisher": "Journal of Progress in Engineering and Physical Science, 2024, 3, 23-31",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "journal"],
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1704067200,
     "updated_at": 1704067200
@@ -54,7 +79,9 @@
     "link": "",
     "publisher": "European Journal of Nutrition & Food Safety, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -66,7 +93,9 @@
     "link": "",
     "publisher": "Journal of Complementary and Alternative Medical Research, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -78,7 +107,9 @@
     "link": "",
     "publisher": "SSRN Electronic Journal, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -90,7 +121,9 @@
     "link": "",
     "publisher": "The Journal of Educational Paradigms, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -102,7 +135,9 @@
     "link": "",
     "publisher": "Caribbean Journal of Education, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["journal"],
+    "tags": [
+      "journal"
+    ],
     "buttons": [],
     "created_at": 1735689600,
     "updated_at": 1735689600
@@ -114,7 +149,9 @@
     "link": "",
     "publisher": "In Prospects of Engineered Bacteria, Volume 2: Engineered Bacteria: Applications in Industry, Chapter 6. Routledge/CAB International, United Kingdom. Submitted for publication; currently in editorial production.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter"],
+    "tags": [
+      "book_chapter"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600
@@ -126,7 +163,9 @@
     "link": "",
     "publisher": "In Advances and Applications in Biotechnology, Volume 5: Biotechnology of Cell Lines in Biopharma, Chapter 2. CRC Press/Taylor & Francis, USA. Submitted for publication; currently in editorial production.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter"],
+    "tags": [
+      "book_chapter"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600
@@ -138,7 +177,9 @@
     "link": "",
     "publisher": "In Prospects of Fungal Biotechnologies for Livestock, Volume 4: Fungal Proteins and Enzyme Processes in Animal Husbandry, Chapter 9. Springer Nature, Switzerland. Submitted for publication; currently under editorial review.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter"],
+    "tags": [
+      "book_chapter"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600
@@ -150,7 +191,10 @@
     "link": "",
     "publisher": "In Prospects of Engineered Bacteria, Volume 1: Engineered Bacteria: Applications in Agriculture, Chapter 11. Routledge/CAB International, United Kingdom. Submitted for publication; currently under editorial review.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter", "key_publications"],
+    "tags": [
+      "book_chapter",
+      "key_publications"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600
@@ -162,7 +206,9 @@
     "link": "",
     "publisher": "In Prospects of Fungal Biotechnologies for Livestock, Volume 3: Myco-Engineered Food for Livestock, Chapter 11. Springer Nature, Switzerland. Submitted for publication; currently under editorial review.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter"],
+    "tags": [
+      "book_chapter"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600
@@ -174,7 +220,9 @@
     "link": "",
     "publisher": "In Chemical Modulators of the Tumor Microenvironment: A Pharmaceutical Chemistry Perspective, Section 2: Pharmaceutical Chemistry Tools for Tumor Microenvironment Modulation, Topic 6. Submitted for publication; currently under editorial review.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["book_chapter"],
+    "tags": [
+      "book_chapter"
+    ],
     "buttons": [],
     "created_at": 1767225600,
     "updated_at": 1767225600

@@ -51,10 +51,21 @@
         "flag_alt": "United States flag",
         "bullets": [
           "Investigating AprL, a PLP-dependent aminotransferase in apramycin biosynthesis, through expression, purification, enzyme kinetics, and structural studies (X-ray crystallography and cryo-EM) to elucidate catalytic mechanism and substrate specificity",
-          "Conducted advanced N-glycan analysis using HPLC-IM-MS, optimizing chromatographic stationary phases and storage conditions to improve glycomics workflows",
-          "Obtained crystal hits from high-throughput screening with preliminary X-ray diffraction data",
+          "Identified crystallization leads from a 1,536-condition high-throughput screen; optimization in progress",
           "Developed computational workflows combining molecular docking, molecular dynamics, and MM/GBSA free energy calculations",
           "Advised by Prof. Robert S. Phillips"
+        ]
+      },
+      {
+        "title": "Graduate Researcher, Glycomics and LC-Ion Mobility-Mass Spectrometry",
+        "organization": "Complex Carbohydrate Research Center, University of Georgia",
+        "dates": "Oct 2023 - Dec 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag",
+        "bullets": [
+          "Conducted advanced N-glycan analysis using HPLC-IM-MS, optimizing chromatographic stationary phases and storage conditions to improve glycomics workflows"
         ]
       },
       {
@@ -97,9 +108,10 @@
         "flag": "US",
         "flag_alt": "United States flag",
         "bullets": [
-          "Develop automation-ready laboratory workflows integrating robotics, digital tools, and analytical data pipelines to improve reliability, traceability, and scalability in biotherapeutic research",
-          "Collaborate with cross-functional teams to translate scientific workflows into scalable automation solutions",
-          "President, Spring House Intern & Co-Op Association (Jul 2026 - Present); previously Vice President (Apr 2026 - Jul 2026)"
+          "Developed an automated pH method that reads pH on 3 µL samples from absorbance ratios, benchmarked against a standard pH meter; now in use at J&J",
+          "Implemented an Azenta 2D barcode reader workflow for 48- and 96-tube racks, improving sample traceability; now in use at J&J",
+          "Wrote Python control logic for robotic workcells and autonomous sample transport (Formulatrix Rover)",
+          "President, Spring House Intern & Co-Op Association (Jul - Aug 2026); previously Vice President (Apr - Jul 2026)"
         ]
       }
     ]
@@ -151,9 +163,19 @@
     "title": "Leadership & Professional Service",
     "entries": [
       {
+        "title": "Elected Trainee Council Member",
+        "organization": "Society for Redox Biology and Medicine (SfRBM)",
+        "dates": "Jan 2027 - Dec 2028",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Redox Biology and Medicine (SfRBM) logo placeholder",
+        "bullets": [
+          "Elected in October 2026 by the Society's trainee membership to a two-year term"
+        ]
+      },
+      {
         "title": "President, Spring House Intern & Co-Op Association",
         "organization": "Johnson & Johnson",
-        "dates": "Jul 2026 - Present",
+        "dates": "Jul 2026 - Aug 2026",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Johnson & Johnson logo placeholder"
       },
@@ -165,7 +187,7 @@
         "logo_alt": "Society of Actuaries logo placeholder"
       },
       {
-        "title": "Board of Directors, Finance Committee Member",
+        "title": "Board of Directors, Finance Committee Vice Chair",
         "organization": "Women in Cleantech & Sustainability",
         "dates": "Jan 2026 - Present",
         "logo": "assets/images/institution-placeholder.svg",
@@ -236,12 +258,12 @@
       },
       {
         "title": "Reviewer",
-        "organization": "Web of Science-verified peer review service across multiple journals (International Journal of Research and Innovation in Applied Science, Water Practice and Technology, Taylor & Francis - Physical Sciences and Molecular Physics, and others)",
+        "organization": "Web of Science-verified peer review across journals including Journal of Cheminformatics, SLAS Discovery, Discover Chemistry, Environment International, Molecular Physics (Taylor & Francis), Water Practice and Technology, and JMIR Publications",
         "dates": "Jul 2023 - Present",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Peer review logo placeholder",
         "bullets": [
-          "Over 100 manuscripts reviewed"
+          "More than 190 Web of Science-verified review records"
         ]
       }
     ]
@@ -249,6 +271,16 @@
   {
     "title": "Honors and Awards",
     "entries": [
+      {
+        "title": "Woman of the Year 2026",
+        "organization": "Women in Chemicals",
+        "dates": "Sep 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Women in Chemicals logo placeholder",
+        "bullets": [
+          "Nominated by colleagues, selected as one of three finalists, and named the 2026 recipient; featured on the cover of Women in Chemicals Magazine, Issue 7, and covered by C&EN (Oct 2026)"
+        ]
+      },
       {
         "title": "Full Member (Elected)",
         "organization": "Sigma Xi, The Scientific Research Honor Society",

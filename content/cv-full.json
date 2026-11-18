@@ -73,7 +73,7 @@
       },
       {
         "title": "PGC Stationary Phase Performance (Key Project)",
-        "organization": "Phillips Lab, University of Georgia",
+        "organization": "Complex Carbohydrate Research Center, University of Georgia",
         "dates": "Aug 2024 - Dec 2024",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
@@ -86,7 +86,7 @@
       },
       {
         "title": "Sialylated N-Linked Glycan Isomeric Structures (Key Project)",
-        "organization": "Phillips Lab, University of Georgia",
+        "organization": "Complex Carbohydrate Research Center, University of Georgia",
         "dates": "Oct 2023 - Aug 2024",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
@@ -99,7 +99,7 @@
       },
       {
         "title": "Solubility Checks on N-Linked Glycans: Organic Solvents vs Aqueous Storage (Key Project)",
-        "organization": "Phillips Lab, University of Georgia",
+        "organization": "Complex Carbohydrate Research Center, University of Georgia",
         "dates": "Apr 2024 - Jun 2024",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
@@ -203,15 +203,25 @@
     "title": "Leadership & Community Service (Full)",
     "entries": [
       {
+        "title": "Elected Trainee Council Member",
+        "organization": "Society for Redox Biology and Medicine (SfRBM)",
+        "dates": "Jan 2027 - Dec 2028",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Redox Biology and Medicine (SfRBM) logo placeholder",
+        "bullets": [
+          "Elected in October 2026 by the Society's trainee membership to a two-year term"
+        ]
+      },
+      {
         "title": "President",
         "organization": "Johnson & Johnson - Spring House Intern & Co-Op Association",
-        "dates": "Jul 2026 - Present",
+        "dates": "Jul 2026 - Aug 2026",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "Johnson & Johnson - Spring House Intern & Co-Op Association logo placeholder",
         "bullets": [
           "Appointed President following a leadership transition to provide strategic direction and ensure organizational continuity",
-          "Lead the executive team in advancing professional development, networking, community engagement, and inclusion initiatives for interns and co-ops across the Spring House R&D site",
-          "Oversee organizational planning, communications, budgeting, and long-term leadership continuity, and developed a sustainable knowledge transfer framework"
+          "Led the executive team in advancing professional development, networking, community engagement, and inclusion initiatives for interns and co-ops across the Spring House R&D site",
+          "Oversaw organizational planning, communications, budgeting, and leadership continuity, and developed a knowledge transfer framework for future leaders"
         ]
       },
       {
@@ -246,7 +256,7 @@
         ]
       },
       {
-        "title": "Board of Directors, Finance Committee Member",
+        "title": "Board of Directors, Finance Committee Vice Chair",
         "organization": "Women in Cleantech & Sustainability (WCS)",
         "dates": "Jan 2026 - Present",
         "logo": "assets/images/institution-placeholder.svg",
@@ -447,6 +457,44 @@
         "logo_alt": "International Journal of Chemistry Research logo placeholder"
       },
       {
+        "title": "Web of Science-Verified Peer Reviewer",
+        "organization": "Web of Science (Clarivate)",
+        "dates": "Jul 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Web of Science (Clarivate) logo placeholder",
+        "bullets": [
+          "More than 190 verified review records"
+        ]
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Journal of Cheminformatics (Springer Nature)",
+        "dates": "Oct 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Journal of Cheminformatics (Springer Nature) logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "SLAS Discovery (Elsevier)",
+        "dates": "Oct 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SLAS Discovery (Elsevier) logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Discover Chemistry (Springer Nature)",
+        "dates": "Oct 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Discover Chemistry (Springer Nature) logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Environment International (Elsevier)",
+        "dates": "Oct 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Environment International (Elsevier) logo placeholder"
+      },
+      {
         "title": "Reviewer",
         "organization": "International Journal of Research and Innovation in Applied Science",
         "dates": "Jul 2023 - Present",
@@ -507,6 +555,23 @@
   {
     "title": "Honors and Awards (Full)",
     "entries": [
+      {
+        "title": "Woman of the Year 2026",
+        "organization": "Women in Chemicals",
+        "dates": "Sep 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Women in Chemicals logo placeholder",
+        "bullets": [
+          "Nominated by colleagues, selected as one of three finalists, and named the 2026 recipient; featured on the cover of Women in Chemicals Magazine, Issue 7, and covered by C&EN (Oct 2026)"
+        ]
+      },
+      {
+        "title": "Elected Trainee Council Member",
+        "organization": "Society for Redox Biology and Medicine",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Redox Biology and Medicine logo placeholder"
+      },
       {
         "title": "SETAC North America Meeting Attendance Grant for Students",
         "organization": "Society of Environmental Toxicology and Chemistry (SETAC)",
