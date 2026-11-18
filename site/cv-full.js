@@ -51,7 +51,7 @@ const createCvEntry = (entry) => {
 const initializeCv = async () => {
   if (!cvContent) return;
   try {
-    const response = await fetch(window.resolveSiteUrl("content/cv_full.json"), { cache: "no-store" });
+    const response = await fetch(window.resolveSiteUrl("content/cv-full.json"), { cache: "no-store" });
     if (!response.ok) throw new Error("Failed to fetch full CV data.");
     const sections = await response.json();
     cvContent.innerHTML = "";
