@@ -1274,6 +1274,13 @@
     "entries": [
       {
         "title": "Member",
+        "organization": "American Association of University Women (AAUW)",
+        "dates": "Current",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Association of University Women (AAUW) logo placeholder"
+      },
+      {
+        "title": "Member",
         "organization": "Healthcare BusinessWomen's Association (HBA)",
         "dates": "Jul 2026 - Present",
         "logo": "assets/images/institution-placeholder.svg",
